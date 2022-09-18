@@ -1,5 +1,5 @@
 # MinecraftNameChecker
-I used this to check the availability of OG Names for Labymod but this can also used to Fetch names in General, you can find Labymods OG list here:
+I used this to check the availability of OG Names for Labymod but this can also used to fetch names in General, you can find the Labymod OG list here:
 https://github.com/LabyMod/og-names
 
 Usage:
