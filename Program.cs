@@ -1,0 +1,3 @@
+﻿using LabyNameChecker;
+
+Main.Load();

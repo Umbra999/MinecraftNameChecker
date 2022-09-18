@@ -1,0 +1,15 @@
+C:\Users\Umbra\source\repos\LabyNameChecker\LabyNameChecker\bin\Release\net6.0\LabyNameChecker.exe
+C:\Users\Umbra\source\repos\LabyNameChecker\LabyNameChecker\bin\Release\net6.0\LabyNameChecker.deps.json
+C:\Users\Umbra\source\repos\LabyNameChecker\LabyNameChecker\bin\Release\net6.0\LabyNameChecker.runtimeconfig.json
+C:\Users\Umbra\source\repos\LabyNameChecker\LabyNameChecker\bin\Release\net6.0\LabyNameChecker.dll
+C:\Users\Umbra\source\repos\LabyNameChecker\LabyNameChecker\bin\Release\net6.0\LabyNameChecker.pdb
+C:\Users\Umbra\source\repos\LabyNameChecker\LabyNameChecker\obj\Release\net6.0\LabyNameChecker.csproj.AssemblyReference.cache
+C:\Users\Umbra\source\repos\LabyNameChecker\LabyNameChecker\obj\Release\net6.0\LabyNameChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umbra\source\repos\LabyNameChecker\LabyNameChecker\obj\Release\net6.0\LabyNameChecker.AssemblyInfoInputs.cache
+C:\Users\Umbra\source\repos\LabyNameChecker\LabyNameChecker\obj\Release\net6.0\LabyNameChecker.AssemblyInfo.cs
+C:\Users\Umbra\source\repos\LabyNameChecker\LabyNameChecker\obj\Release\net6.0\LabyNameChecker.csproj.CoreCompileInputs.cache
+C:\Users\Umbra\source\repos\LabyNameChecker\LabyNameChecker\obj\Release\net6.0\LabyNameChecker.dll
+C:\Users\Umbra\source\repos\LabyNameChecker\LabyNameChecker\obj\Release\net6.0\refint\LabyNameChecker.dll
+C:\Users\Umbra\source\repos\LabyNameChecker\LabyNameChecker\obj\Release\net6.0\LabyNameChecker.pdb
+C:\Users\Umbra\source\repos\LabyNameChecker\LabyNameChecker\obj\Release\net6.0\LabyNameChecker.genruntimeconfig.cache
+C:\Users\Umbra\source\repos\LabyNameChecker\LabyNameChecker\obj\Release\net6.0\ref\LabyNameChecker.dll
