@@ -26,8 +26,13 @@ namespace LabyNameChecker
                 if (Resp.StatusCode == (HttpStatusCode)204)
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
-                    Console.WriteLine($"Found Account: {Name} [{index++}/{Names.Length - 1}]");
+                    Console.WriteLine($"Found Account: {Name}");
                     Available.Add(Name);
+                }
+                else if (Resp.StatusCode != (HttpStatusCode)200)
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine($"Failed Account Request: {Name}");
                 }
                 Thread.Sleep(1000);
             }
