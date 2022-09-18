@@ -29,6 +29,7 @@ namespace LabyNameChecker
                     Console.WriteLine($"Found Account: {Name} [{index++}/{Names.Length - 1}]");
                     Available.Add(Name);
                 }
+                Thread.Sleep(1000);
             }
             File.WriteAllLines("Available.txt", Available.ToArray());
         }
